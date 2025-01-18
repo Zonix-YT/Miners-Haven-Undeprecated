@@ -4,5 +4,4 @@ This is a simple edit of the original Miners Haven Open Source to update all dep
 2) Updates all internal code of base Miners Haven to use modern undeprecated alternatives.
 3) Fixes Teleporters
 4) Fixes Gears (e.g. Doge)
-5) Improved MOTD System.
-   a) Simply put; no longer one-time viewable and the button remains on the right-side of the screen.
+5) Improved MOTD System
